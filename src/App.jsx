@@ -14,7 +14,7 @@ const additionalInfo = [
     description:
       "Enjoy Free Shipping On All Orders - No Minimum Purchase Required.",
     icon: <IoLogoWhatsapp size={30} />,
-    href: "https://wa.me//+573142322163",
+    href: "https://wa.me//+573125308796",
   },
 
   {
@@ -30,7 +30,7 @@ const additionalInfo = [
     description:
       "Our Team Is Available 24/7 To Help With Any Questions Or Concerns.",
     icon: <MdOutlineMarkUnreadChatAlt size={30} />,
-    href: "https://wa.me//+584244982754",
+    href: "mailto:alejandra72393@hotmail.com",
   },
   {
     id: 2,
